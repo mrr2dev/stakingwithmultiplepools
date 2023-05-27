@@ -2,7 +2,7 @@ console.log("############################################");
 console.log("#        Hi there technical person         #");
 console.log("############################################");
 
-const _NETWORK_ID = 97;
+const _NETWORK_ID = 56;
 let _CONTRACT_DATA = {};
 
 const _API_URL = 'https://7yjhmmd390.execute-api.ap-south-1.amazonaws.com/prod'
